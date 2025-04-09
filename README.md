@@ -3,7 +3,7 @@
 - 👀 Je m’intéresse au développement web moderne, aux microservices et à l’éco-conception.
 - 🌱 J’apprends actuellement **React**, **Express**, **Hono**, **Prisma**, **Sequelize** et **JavaScript**.
 - 💞️ Je cherche à collaborer sur des projets **full-stack** (front + back), avec un focus sur les bonnes pratiques, la performance et l’accessibilité.
-- 📫 Contacte-moi ici : ton.email@email.com
+- 📫 Contacte-moi ici : sellncons@gmail.com
 - 😄 Pronom : il / lui
 - ⚡ Fun fact : je suis capable de faire cohabiter Sequelize *et* Prisma dans un même projet (presque sans perdre la tête 😅)
 
